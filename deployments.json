@@ -1,0 +1,10 @@
+{
+    "bnusd": "cx0e58a3939bdd27073e271fbfacd613a81ae904bb",
+    "loan": "cxf24b6c2644116fc4c4925bbbfa4fc31bccf36aa1",
+    "router": "cxc8d20fee85e8e89791f6a2f845bdc97b04ada157",
+    "daofund": "cxd4a9e0bc994de95b9c4a7ed122a260393c748abf",
+    "assetManager": "cx7f3e7e3c38a80d108afca152bc68c010b0e61644",
+    "xcallManager": "cxa27243adae50dadc497142c4908f0e7fee62f8c5",
+    "governance": "cxc7ac214f61aa4b5fc9a408e528249facdf58a56a",
+    "baln": "cx411d47e0ac227246133f97f07ba9214fb32a7100"
+}
